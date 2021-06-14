@@ -1,0 +1,10 @@
+.checked {
+    text-decoration: line-through;
+  }
+  .delete {
+    border-radius: 4px;
+    border-style: none;
+    float: right;
+    margin-top: -6px;
+  }
+  
